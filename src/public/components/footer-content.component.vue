@@ -27,8 +27,7 @@ footer{
   background-color: #1f3139;
   color: #fff;
   text-align: center;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding: 2rem 3rem;
 }
 
 footer p{
