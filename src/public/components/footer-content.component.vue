@@ -9,7 +9,7 @@ export default {
   <footer>
     <p>Diseño realizado en Figma y desarrollo propio usando Vue.Js. Todos los derechos reservados. © Diego Criollo</p>
     <div class="social-media">
-      <a href="https://www.linkedin.com/in/diego-criollo-7b1b3b1b1/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/diego-criollo-de-la-cruz-680830258/" target="_blank" rel="noopener noreferrer">
         <img src="/public/social-media-icons/linkedin-icon.png" alt="Linkedin icon" width="50">
       </a>
       <a href="https://github.com/diegooo01" target="_blank">
