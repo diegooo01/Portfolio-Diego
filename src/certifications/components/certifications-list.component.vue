@@ -9,6 +9,24 @@ export default {
 
   <div class="certification-list">
     <div class="group-certification">
+      <img src="/public/certifications-logos/u-macquire.png" alt="Macquire University Logo">
+      <div class="certification-text">
+        <h1>Excel Skills: Advanced</h1>
+        <p>Otorgado por: Macquire University</p>
+        <p>Emisión: 17 de Agosto de 2024</p>
+        <a href="https://coursera.org/share/29f7fcdeaea0950e9ff26f2b1a8c7e44" target="_blank">Certificado</a>
+      </div>
+    </div>
+    <div class="group-certification">
+      <img src="/public/certifications-logos/u-rutgers.png" alt="Rutgers University Logo">
+      <div class="certification-text">
+        <h1>Supply Chain Analytics</h1>
+        <p>Otorgado por: Rutgers University</p>
+        <p>Emisión: 16 de Agosto de 2024</p>
+        <a href="https://coursera.org/share/5697a55a008ca5633aede1243a23ed04" target="_blank">Certificado</a>
+      </div>
+    </div>
+    <div class="group-certification">
       <img src="/public/certifications-logos/mongodb-certification.png" alt="MongoDB Logo">
       <div class="certification-text">
         <h1>MongoDB Indexes</h1>
